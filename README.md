@@ -1,4 +1,4 @@
-![logo](https://github.com/maninani2000/maninani2000/blob/main/github%20profile%20gif1.png)
+![logo](https://github.com/maninani2000/maninani2000/blob/main/git%20hub%20poster%20gif.png)
 <h1 align="center">Hi 👋, I'm Manikanta Bojja</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
